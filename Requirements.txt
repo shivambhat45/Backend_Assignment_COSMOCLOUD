@@ -1,0 +1,4 @@
+1. python 3
+2. pip install fastapi
+3. You will also need an ASGI server, for production such as Uvicorn or Hypercorn: pip install "uvicorn[standard]"
+4. MongoDb Community Download / MongoDB Atlas (No Need To Download)
